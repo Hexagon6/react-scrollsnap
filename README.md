@@ -1,7 +1,7 @@
 # react-scrollsnap
 A react component which snaps to the top or bottom.
 
-Warning: this is not production ready yet!
+>Warning: this is not production ready yet!
 
 ## example usage / intended use:
 ```js
@@ -29,7 +29,7 @@ export default class TestPage extends React.Component {
 ```
 
 ## feature progress
-[X] <ScrollSnapTop/>
-[ ] <ScrollSnapBottom/>
-[ ] make import more granular
-[ ] remove jQuery dependency
+* [X] <ScrollSnapTop/>
+* [ ] <ScrollSnapBottom/>
+* [ ] make import more granular
+* [ ] remove jQuery dependency
