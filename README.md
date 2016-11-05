@@ -29,7 +29,7 @@ export default class TestPage extends React.Component {
 ```
 
 ## feature progress
-* [X] <ScrollSnapTop/>
-* [ ] <ScrollSnapBottom/>
+* [X] `<ScrollSnapTop/>`
+* [ ] `<ScrollSnapBottom/>`
 * [ ] make import more granular
 * [ ] remove jQuery dependency
